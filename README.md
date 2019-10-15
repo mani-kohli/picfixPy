@@ -97,4 +97,4 @@ Arguments:
 | ------------------- | ------------------- |
 | Miliban Keyim       | [mkeyim](https://github.com/mkeyim) |
 | George J. J. Wu     | [GeorgeJJW](https://github.com/GeorgeJJw) |
-| Mani Kohli          | [ksm45](https://github.com/ksm45) |
+| Mani Kohli          | [ksm45](https://github.com/mani-kohli) |
